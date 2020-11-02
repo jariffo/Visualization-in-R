@@ -1,4 +1,4 @@
-# Visualization in R
+# Visualización en R
 
 # Día 1: barras
 
