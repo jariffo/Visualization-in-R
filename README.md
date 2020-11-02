@@ -1,6 +1,6 @@
 # Visualización en R
 
-# Día 1: barras
+# Gráfico de puntos
 
 [Código]()
 
