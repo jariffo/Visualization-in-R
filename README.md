@@ -1,25 +1,26 @@
 # Visualization in R
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+# Día 1: barras/columnas
 
-## R Markdown
+**Análisis datos Spotify**
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+[Código](https://github.com/sporella/nightingale/blob/master/uno.R)
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+[Análisis Completo](https://sporella.netlify.app/2020-05-12-m%C3%BAsica-datos-y-gr%C3%A1ficos/)
 
-```{r cars}
-summary(cars)
-```
+![](https://github.com/sporella/nightingale/blob/master/plots/uno/energy.png)
+----------
 
-## Including Plots
+# Día 2: líneas
 
-You can also embed plots, for example:
+**Brecha de género en carreras tecnológicas, Chile**
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+[Fuente Datos](http://geoine-ine-chile.opendata.arcgis.com/datasets/49ab475e009a4cfbaf1a354af6016d73_29?selectedAttribute=BRECHA_2008_PROFESIONAL)
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+[Código](https://github.com/sporella/nightingale/blob/master/dos.R)
+
+[Visualización con highcharter](https://sporella.netlify.app/2020-05-13-visualizaci%C3%B3n-con-highcharter-brecha-de-g%C3%A9nero-en-carreras-tecnol%C3%B3gicas/)
+
+![](https://github.com/sporella/nightingale/blob/master/plots/dos/brecha_profesional.png)
+
+----------
