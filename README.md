@@ -1,10 +1,8 @@
 # Visualización en R
 
-# Gráfico de puntos
+## 1. Gráfico de puntos
 
-[Código]()
-
-[Análisis]()
+[Código](https://github.com/jariffo/Visualization-in-R/blob/main/day_1.R)
 
 [Visualización]()
 
