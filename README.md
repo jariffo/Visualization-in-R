@@ -9,10 +9,11 @@
 ![](https://github.com/jariffo/Visualization-in-R/blob/main/Rplot-01.png)
 ----------
 
-## 2. Gráfico de columnas
+## 2. Gráfico de columnas y nube de palabras
 
 [Código]()
 
 [Visualización]()
 
-![](https://github.com/jariffo/Visualization-in-R/blob/main/Rplot-02.png)
+![](https://github.com/jariffo/Visualization-in-R/blob/main/Rplot-02-1.png)
+![](https://github.com/jariffo/Visualization-in-R/blob/main/Rplot-02-2.png)
