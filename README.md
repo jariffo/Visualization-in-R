@@ -11,7 +11,7 @@
 
 ## 2. Gráfico de columnas y nube de palabras
 
-[Código]()
+[Código](https://github.com/jariffo/Visualization-in-R/blob/main/day_2.R)
 
 [Visualización]()
 
