@@ -25,3 +25,11 @@
 [Visualización]
 
 ![](https://github.com/jariffo/Visualization-in-R/blob/main/Rplot-03.png)
+
+## 4. Gráfico con facetas
+
+[Código]
+
+[Visualización]
+
+![](https://github.com/jariffo/Visualization-in-R/blob/main/Rplot-04.png)
