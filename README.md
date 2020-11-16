@@ -17,3 +17,11 @@
 
 ![](https://github.com/jariffo/Visualization-in-R/blob/main/Rplot-02-1.png)
 ![](https://github.com/jariffo/Visualization-in-R/blob/main/Rplot-02-2.png)
+
+## 3. Gráfico con anotaciones
+
+[Código]
+
+[Visualización]
+
+![](https://github.com/jariffo/Visualization-in-R/blob/main/Rplot-03.png)
