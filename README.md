@@ -33,3 +33,12 @@
 [Visualización]
 
 ![](https://github.com/jariffo/Visualization-in-R/blob/main/Rplot-04.png)
+
+## 5. Gráfico aluvial
+
+[Código]
+
+[Visualización]
+
+![](https://github.com/jariffo/Visualization-in-R/blob/main/Rplot-05.png)
+
