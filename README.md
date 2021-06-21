@@ -36,7 +36,7 @@
 
 ## 5. Gráfico aluvial
 
-[Código]
+[Código](https://github.com/jariffo/Visualization-in-R/blob/main/day_5.R)
 
 [Visualización]
 
