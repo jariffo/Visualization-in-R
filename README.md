@@ -4,7 +4,7 @@
 
 [Código](https://github.com/jariffo/Visualization-in-R/blob/main/day_1.R)
 
-[Visualización]()
+[Visualización](https://github.com/jariffo/Visualization-in-R/blob/main/Rplot-01.png)
 
 ![](https://github.com/jariffo/Visualization-in-R/blob/main/Rplot-01.png)
 ----------
@@ -13,7 +13,7 @@
 
 [Código](https://github.com/jariffo/Visualization-in-R/blob/main/day_2.R)
 
-[Visualización]()
+[Visualización](https://github.com/jariffo/Visualization-in-R/blob/main/Rplot-02-1.png)
 
 ![](https://github.com/jariffo/Visualization-in-R/blob/main/Rplot-02-1.png)
 ![](https://github.com/jariffo/Visualization-in-R/blob/main/Rplot-02-2.png)
@@ -38,7 +38,7 @@
 
 [Código](https://github.com/jariffo/Visualization-in-R/blob/main/day_5.R)
 
-[Visualización]
+[Visualización](https://github.com/jariffo/Visualization-in-R/blob/main/Rplot-05.png)
 
 ![](https://github.com/jariffo/Visualization-in-R/blob/main/Rplot-05.png)
 
