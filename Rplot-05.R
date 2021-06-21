@@ -1,4 +1,3 @@
-# Los usuarios domésticos recomiendan la estación espejo Tsinghua
 library("tidyverse")
 github2datos <- read_excel("datos/github2datos.xlsx", col_types = c("numeric", "text", "text"))
 
