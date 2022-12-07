@@ -17,6 +17,7 @@
 
 ![](https://github.com/jariffo/Visualization-in-R/blob/main/Rplot-02-1.png)
 ![](https://github.com/jariffo/Visualization-in-R/blob/main/Rplot-02-2.png)
+![](https://github.com/MFaymon/spINAR/blob/main/cheat_sheet_spINAR.pdf)
 
 ## 3. Gráfico con anotaciones
 
