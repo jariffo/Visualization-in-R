@@ -43,3 +43,6 @@
 
 ![](https://github.com/jariffo/Visualization-in-R/blob/main/Rplot-05.png)
 
+
+
+![](https://github.com/jariffo/Visualization-in-R/blob/main/folder/spinar_est_alpha.jpg) ![](https://github.com/jariffo/Visualization-in-R/blob/main/folder/spinar_est_pmf.jpg)
